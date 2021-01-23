@@ -13,6 +13,7 @@ jobs:
           filename: metrics.svg
           base: "header, repositories"
           token: ${{ secrets.METRICS_TOKEN }}
+          plugin_lines: yes
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           config_timezone: Europe/Paris
           config_padding: 10%
