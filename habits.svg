@@ -718,7 +718,7 @@
               <li>Use spaces for indents</li>
             
             
-              <li>Mostly push code around 17:00</li>
+              <li>Mostly push code around 19:00</li>
             
             
               <li>Mostly active on saturday</li>
@@ -838,26 +838,26 @@
             </div>
           
             <div class="entry">
-              <span class="value">20</span>
-              <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+              <span class="value"></span>
+              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
               17
             </div>
           
             <div class="entry">
-              <span class="value">10</span>
-              <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">4</span>
+              <div class="bar" style="height: 11.11111111111111px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               18
             </div>
           
             <div class="entry">
               <span class="value">18</span>
-              <div class="bar" style="height: 45px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+              <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               19
             </div>
           
             <div class="entry">
               <span class="value">4</span>
-              <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <div class="bar" style="height: 11.11111111111111px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               20
             </div>
           
@@ -926,7 +926,7 @@
               </div>
             
               <div class="entry">
-                <span class="value">52</span>
+                <span class="value">26</span>
                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Sat
               </div>
