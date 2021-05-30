@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="312" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="330" class="">
     <defs>
         <style/>
     </defs>
@@ -1102,6 +1102,7 @@
     </h2>
                 <div class="row">
                     <ul class="habits">
+                        <li>Use spaces for indents</li>
                         <li>Mostly push code around 01:00</li>
                         <li>Mostly active on sunday</li>
                     </ul>
@@ -1186,8 +1187,8 @@
               14
             </div>
                     <div class="entry">
-              <span class="value"></span>
-              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+              <span class="value">1</span>
+              <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               15
             </div>
                     <div class="entry">
@@ -1237,7 +1238,7 @@
                     <h3>Commit activity per day</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                <span class="value">3</span>
+                <span class="value">4</span>
                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Sun
               </div>
@@ -1271,6 +1272,16 @@
                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                 Sat
               </div>
+                    </div>
+                </section>
+                <section class="column chart">
+                    <h3>Language activity</h3>
+                    <div class="chart-bars horizontal">
+                        <div class="entry">
+                            <span class="name">TypeScript</span>
+                            <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">100%</span>
+                        </div>
                     </div>
                 </section>
             </div>
