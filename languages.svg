@@ -21,23 +21,23 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="200.8979280496804" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="200.8979280496804" y="0" width="186.07896460521843" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="386.9768926548988" y="0" width="37.532729187221726" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="424.50962184212045" y="0" width="35.49037815787946" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="196.20968836581685" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="196.20968836581685" y="0" width="193.4678984054997" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="389.67758677131656" y="0" width="36.14461486869526" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="425.8222016400118" y="0" width="34.17779835998818" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        JavaScript
-                    </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        JavaScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
